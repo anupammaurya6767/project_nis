@@ -1,0 +1,7 @@
+pqcrypto
+numpy
+matplotlib
+seaborn
+pandas
+psutil
+pytest
